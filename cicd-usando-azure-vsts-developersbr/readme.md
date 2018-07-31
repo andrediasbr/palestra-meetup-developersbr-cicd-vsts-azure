@@ -34,5 +34,5 @@ alt="CI/CD com Microsoft Azure e Visual Studio Team Services" width="520" height
 2. [Blue Green Deployment - Martin Fowler](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 
 ## Comentários
-(cicd-usando-azure-vsts-developersbr/feedback.png "Feedback sobre a palestra")
+![Comentarios](feedback.png "Feedback sobre a palestra")
 
