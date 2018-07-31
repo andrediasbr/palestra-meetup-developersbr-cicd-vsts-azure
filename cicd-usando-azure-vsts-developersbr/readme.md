@@ -1,4 +1,4 @@
-# Palestra: CI/CD com Microsoft Azure e Visual Studio Team Services (VSTS) 
+﻿# Palestra: CI/CD com Microsoft Azure e Visual Studio Team Services (VSTS) 
 Recursos e referências da palestra realizada em 30/07/2018 no Meetup do Grupo Developers-BR sobre CI/CD com VSTS e Azure
 
 ## Agenda
@@ -32,3 +32,7 @@ alt="CI/CD com Microsoft Azure e Visual Studio Team Services" width="520" height
 ## Referências
 1. [Continuous Delivery - Martin Fowler](https://martinfowler.com/bliki/ContinuousDelivery.html)
 2. [Blue Green Deployment - Martin Fowler](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+
+## Comentários
+(cicd-usando-azure-vsts-developersbr/feedback.png "Feedback sobre a palestra")
+
