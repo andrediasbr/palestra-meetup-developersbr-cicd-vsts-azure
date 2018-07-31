@@ -18,7 +18,7 @@ Recursos e referências da palestra realizada em 30/07/2018 no Meetup do Grupo D
 
 ## Recursos 
 1. [Slides](https://www.slideshare.net/andre.dias/cicd-com-microsoft-azure-e-visual-studio-team-services-vsts)
-2. Vídeo
+2. [Vídeo](http://youtu.be/81q4bDLiqHA)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=81q4bDLiqHA
 " target="_blank"><img src="http://img.youtube.com/vi/81q4bDLiqHA/0.jpg" 
